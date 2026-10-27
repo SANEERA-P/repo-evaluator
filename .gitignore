@@ -1,12 +1,5 @@
-# Python / Virtual Environment
-venv/
+.venv/
 __pycache__/
-*.pyc
-
-# Node / Frontend
-node_modules/
-.next/
-dist/
-
-# Environment Variables
+.pytest_cache/
 .env
+.ruff_cache/
